@@ -1,0 +1,36 @@
+section
+{
+  
+}
+article
+{
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 6%), 0 2px 5px 0 rgb(0 0 0 / 20%);
+}
+article h1
+{
+  font-size: 60px;
+  margin-bottom: 30px;
+  color: #222;
+}
+article p
+{
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 30px;
+}
+article button
+{
+  transition: all .5s ease !important;
+}
+article button:hover
+{
+  background-color: #28a745 !important;
+  border: 1px solid #28a745 !important;
+}
+
+article h4
+{
+  margin-top: 50px;
+  margin-bottom: 20px;
+  color: #e76f51;
+}
